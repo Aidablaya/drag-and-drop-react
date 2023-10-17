@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  width: 100%;
+  min-height: 100vh;
+  background: #0b0423;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#left, #right {
+  width: 300px;
+  min-height: 400px;
+  margin: 20px;
+  border: 2px dashed #fff;
+  
+}
+
+.img {
+  width: 30%;
+  margin-right: 15px;
+  margin-left: 20px;
+  border-radius: 50%;
+}
+
+.list {
+  background:  #e91e63;
+  height: 60px;
+  margin: 30px;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  cursor: grab;
+}

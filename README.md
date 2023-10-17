@@ -1,1 +1,1 @@
-# drag-and-drop-react
+# React Starter Kit
