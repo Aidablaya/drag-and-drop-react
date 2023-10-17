@@ -1,5 +1,11 @@
 
-<h1 align="center"> Ejercicio D&D en React</h1>
+# Ejercicio D&D en React
 
+<div style="text-align: right;">
+  <img src="https://github.com/Aidablaya/drag-and-drop-react/blob/main/src/images/D%26D.png" width="300" height="250">
+</div>
 
-<img src="https://github.com/Aidablaya/drag-and-drop-react/blob/main/src/images/D%26D.png" width="200" height="150">
+- Ejercicio Drag&Drop realizado con React.
+- Su funcionalidad permite arrastrar los elementos de una lista a otra lista vacía y poder retornarlos, permitiendo posicionarlos aleatoriamente.
+- Acceso: `npm install`.
+
