@@ -1,6 +1,5 @@
-# React Starter Kit
 
-<h1 align="center"># Ejercicio D&D en React/h1>
-<em> # Ejercicio D&D en React</em>
+<h1 align="center"> Ejercicio D&D en React</h1>
 
-![Image text](https://github.com/Aidablaya/drag-and-drop-react/blob/main/src/images/D%26D.png)
+
+<img src="https://github.com/Aidablaya/drag-and-drop-react/blob/main/src/images/D%26D.png" width="200" height="150">
